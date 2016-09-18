@@ -13,21 +13,21 @@ Start Apache/**XAMPP** Server and run tutorial.html in localhost
 
 ## Project Samples
 
-![alt tag](1.png)
+![alt tag](/pics/1.png?raw=true)
 
-![alt tag](2.png)
+![alt tag](/pics/2.png?raw=true)
 
-![alt tag](3.png)
+![alt tag](/pics/3.png?raw=true)
 
-![alt tag](4.png)
+![alt tag](/pics/4.png?raw=true)
 
-![alt tag](5.png)
+![alt tag](/pics/5.png?raw=true)
 
-![alt tag](6.png)
+![alt tag](/pics/6.png?raw=true)
 
-![alt tag](7.png)
+![alt tag](/pics/7.png?raw=true)
 
-![alt tag](8.png)
+![alt tag](/pics/8.png?raw=true)
 
 ## Check the Video too
 
