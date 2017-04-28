@@ -4,6 +4,8 @@ We're hosting now !!
 
 **LINK :-** http://tutorwb.herokuapp.com/
 
+We've resolved most of our hosting issues. Please glance at our project a second time if needed if you noticed the
+bugs we had previously.
 
 ## Synopsis
 
